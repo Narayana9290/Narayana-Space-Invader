@@ -144,7 +144,7 @@ while running:
         # Game Over
         if enemyY[i] > 440:
             for j in range(num_of_enemies):
-                enemyY[j] = 2000
+                enemyY[j] = 200
             game_over_text()
             break
 
