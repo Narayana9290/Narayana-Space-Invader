@@ -57,7 +57,7 @@ bullet_state = "ready"
 
 # Score
 
-score_value = 0
+score_value = 10
 font = pygame.font.Font('freesansbold.ttf', 32)
 
 textX = 10
