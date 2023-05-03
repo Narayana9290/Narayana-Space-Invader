@@ -53,7 +53,7 @@ bulletX = 0
 bulletY = 480
 bulletX_change = 0
 bulletY_change = 10
-bullet_state = "go"
+bullet_state = "ready"
 
 # Score
 
