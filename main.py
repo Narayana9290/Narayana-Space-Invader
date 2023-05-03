@@ -163,7 +163,7 @@ while running:
             explosionSound.play()
             bulletY = 500
             bullet_state = "ready"
-            score_value += 1
+            score_value += 10
             enemyX[i] = random.randint(0, 736)
             enemyY[i] = random.randint(50, 150)
 
